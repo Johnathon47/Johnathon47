@@ -26,8 +26,8 @@
 ## Ambitions
 <img src="Images/mario_earning.gif" alt="mario coding" align="right" width="20%">
 
-One day, I aspire to achieve financial freedom through real estate investment.  
-I believe in the power of long-term planning, learning, and discipline — both in tech and in life.
+One day, I aspire to **achieve financial freedom** through real estate investment.  
+I believe in the power of **long-term planning, learning, and discipline** — both in tech and in life.
 My dream too is creating a game just a simple retro game (gumball retro, adventure time retro, rigby and mordecai retro)
 <br>
 <!--
