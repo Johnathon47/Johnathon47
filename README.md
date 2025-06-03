@@ -12,7 +12,7 @@
 -->
 
 ## About Me:
-<img src="Images/coding_pixel.gif" alt="mario coding" align="right" width="50%">
+<img src="Images/coding_pixel.gif" alt="mario coding" align="right" width="20%">
 
 - 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
 - 👀 I'm interesting in everything.
@@ -25,7 +25,7 @@
 
 ## 💸 Ambitions Beyond Tech
 
-<img src="Images/mario_earning.gif" alt="mario coding" align="right" width="40%">
+<img src="Images/mario_earning.gif" alt="mario coding" align="right" width="20%">
 One day, I aspire to achieve financial freedom through real estate investment.  
 I believe in the power of long-term planning, learning, and discipline — both in tech and in life.
 <!--
