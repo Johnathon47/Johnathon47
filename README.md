@@ -43,4 +43,5 @@
     Section github history
 -->
 
-![Snake animation](https://github.com/Johnathon47/Johnathon47/blob/output/ocean.svg)
+## snake
+![snake](https://raw.githubusercontent.com/Johnathon47/Johnathon47/output/ocean.gif)
