@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<img src="gumball_be_gentleman.gif" alt="">
+
+## About Me:
 - 👋 Hi, I’m @Johnathon47
 - 👀 I am interested in everything
 - 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python
