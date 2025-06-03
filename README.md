@@ -12,7 +12,7 @@
 -->
 
 ## About Me:
-<img src="Images/coding_pixel.gif" alt="mario coding" align="right">
+<img src="Images/coding_pixel.gif" alt="mario coding" align="right" width="50%">
 
 - 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
 - 👀 I'm interesting in everything.
