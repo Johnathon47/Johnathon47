@@ -44,4 +44,4 @@
 -->
 
 ## snake
-![snake](https://raw.githubusercontent.com/Johnathon47/Johnathon47/output/ocean.gif)
+![snake](https://raw.githubusercontent.com/Johnathon47/Johnathon47/output/github-snake-dark.svg)
