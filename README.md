@@ -11,7 +11,7 @@
     Section About me
 -->
 
-## About Me:
+## About Me
 <img src="Images/coding_pixel.gif" alt="mario coding" align="right" width="20%">
 
 - 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
@@ -23,11 +23,13 @@
     About ambitions
 -->
 
-## 💸 Ambitions Beyond Tech
-
+## Ambitions
 <img src="Images/mario_earning.gif" alt="mario coding" align="right" width="20%">
+
 One day, I aspire to achieve financial freedom through real estate investment.  
 I believe in the power of long-term planning, learning, and discipline — both in tech and in life.
+My dream too is creating a game just a simple retro game (gumball retro, adventure time retro, rigby and mordecai retro)
+<br>
 <!--
     Section tools
 -->
@@ -48,7 +50,7 @@ I believe in the power of long-term planning, learning, and discipline — both 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="figma"/>   
 </p>
-
+<br>
 
 <!--
     Section Snake eat contribution
