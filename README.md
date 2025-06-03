@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;I+hope+you+enjoy+reading+my+README)](https://git.io/typing-svg)
 <img src="gumball_be_gentleman.gif" alt="">
 
 ## About Me:
