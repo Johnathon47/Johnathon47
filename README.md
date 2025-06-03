@@ -12,10 +12,10 @@
 -->
 
 ## About Me:
-- 👋 Hi, I’m @Johnathon47
-- 👀 I am interested in everything
-- 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python
-- 👨‍🎓 I'm studying at HEI (Haut Ecole Informatique) (in english is High School of Computer Science (HSC))
+- 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
+- 👀 I'm interesting in everything.
+- 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python - postgresql.
+- 👨‍🎓 I'm studying at HEI (Haute Ecole Informatique) (in english is High School of Computer Science (HSC)).
 
 
 <!--
@@ -36,12 +36,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="figma"/>   
 </p>
 
 
 <!--
-    Section github history
+    Section Snake eat contribution
 -->
 
-## snake
+## Snake eating my contribution :
 ![snake](https://raw.githubusercontent.com/Johnathon47/Johnathon47/output/github-snake-dark.svg)
