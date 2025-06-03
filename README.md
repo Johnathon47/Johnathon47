@@ -6,7 +6,10 @@
 - 👀 I am interested in everything
 - 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python
 - 👨‍🎓 I'm studying at HEI (Haut Ecole Informatique) (in english is High School of Computer Science (HSC))
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+
+
+<h2> 🚀 &nbsp;Some Tools I use and learn</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
