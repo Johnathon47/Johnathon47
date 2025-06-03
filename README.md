@@ -4,7 +4,7 @@
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;I+hope+you+enjoy+reading+my+README)](https://git.io/typing-svg)
-<img src="Images/gumball_be_gentleman.gif" alt="gif of gumball" style="border: 10px solid #fbfdfd;" width="500px">
+<img src="Images/gumball_be_gentleman.gif" alt="gif of gumball">
 
 
 <!--
