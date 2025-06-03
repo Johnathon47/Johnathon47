@@ -1,5 +1,15 @@
+
+<!--
+    Section heading
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;I+hope+you+enjoy+reading+my+README)](https://git.io/typing-svg)
 <img src="Images/gumball_be_gentleman.gif" alt="gif of gumball">
+
+
+<!--
+    Section About me
+-->
 
 ## About Me:
 - 👋 Hi, I’m @Johnathon47
@@ -8,6 +18,9 @@
 - 👨‍🎓 I'm studying at HEI (Haut Ecole Informatique) (in english is High School of Computer Science (HSC))
 
 
+<!--
+    Section tools
+-->
 
 <h2> 🚀 &nbsp;Some Tools I use and learn</h2>
 <p align="left">
@@ -24,7 +37,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-<!---
-Johnathon47/Johnathon47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<!--
+    Section github history
+-->
+
