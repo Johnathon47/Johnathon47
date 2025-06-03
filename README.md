@@ -3,7 +3,7 @@
     Section heading
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;I+hope+you+enjoy+reading+my+README)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;I+hope+you+enjoy+reading+my+README;and+checking+my+repository)](https://git.io/typing-svg)
 <img src="Images/gumball_be_gentleman.gif" alt="gif of gumball">
 
 
