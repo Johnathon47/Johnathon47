@@ -12,12 +12,22 @@
 -->
 
 ## About Me:
+<img src="Images/coding_pixel.gif" alt="mario coding" align="right">
+
 - 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
 - 👀 I'm interesting in everything.
 - 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python - postgresql.
-- 👨‍🎓 I'm studying at HEI (Haute Ecole Informatique) (in english is High School of Computer Science (HSC)).
+- 👨‍🎓 I'm studying at **HEI (Haute Ecole Informatique)** (in english is High School of Computer Science (HSC)).
 
+<!--
+    About ambitions
+-->
 
+## 💸 Ambitions Beyond Tech
+
+<img src="Images/mario_earning.gif" alt="mario coding" align="right" width="40%">
+One day, I aspire to achieve financial freedom through real estate investment.  
+I believe in the power of long-term planning, learning, and discipline — both in tech and in life.
 <!--
     Section tools
 -->
