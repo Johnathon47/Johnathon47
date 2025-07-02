@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m **TOTOZAFY Johnathon Wesley**.
 - 👀 I'm interesting in everything.
-- 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python - postgresql.
+- 🌱 I’m currently learning english, Computer Science, language java - javascript - html - css - python - postgresql - VIM (I use NvChad).
 - 👨‍🎓 I'm studying at **HEI (Haute Ecole Informatique)** (in english is High School of Computer Science (HSC)).
 
 <!--
@@ -28,7 +28,7 @@
 
 One day, I aspire to **achieve financial freedom** through real estate investment.  
 I believe in the power of **long-term planning, learning, and discipline** — both in tech and in life.
-My dream too is creating a game just a simple retro game (gumball retro, adventure time retro, rigby and mordecai retro)
+My dream too is creating a game just a simple retro game (gumball retro, adventure time retro, rigby and mordecai retro, yep I know I love Cartoon Network <img src="Images/CN.png" width="2%"/>)
 <br>
 <!--
     Section tools
